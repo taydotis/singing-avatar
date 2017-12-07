@@ -8,7 +8,7 @@
 
 ## Read Me:
 
-**Installation** - 
+**Installation** - In order to open the project or run a specific build, you will need to download the files in the repository linked above. You should be able to open the “Unity” subfolder as a project in Unity, or click through the “Builds” subfolders until you find the appropriate build for your experiment. If the build does not want to run on the Oculus Rift, you may need to download their latest software here: https://www.oculus.com/setup/
 
 **Development Environment** - The development environments used are Unity and Blender. Blender was used to create the singing avatar asset. No imported models were used to create the avatar. Unity was used to animate the avatar and add sound and a background.
 
@@ -30,4 +30,4 @@
 
 We created an avatar, made with Blender, that is synced to the song files you gave us. Upon running our build, you will be able to choose different options for the avatar and run, such as avatar gender, song that it will sing, and whether it has eyebrow movements. This avatar can be presented for participants to sing along with instead of having a person do so during the experiment, allowing for more experimental control in the design of the research and reducing the confound of experimenter bias.
 
-**Video Walkthrough** - INSERT LINK HERE
+**Video Walkthrough** - https://www.youtube.com/watch?v=aONY4vpco0I
