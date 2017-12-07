@@ -1,5 +1,7 @@
 # Singing Avatar
 
+**Video Walkthrough** - https://www.youtube.com/watch?v=aONY4vpco0I
+
 ## User Overview:
 
 **Interface** - There is no interface for the users to set options for the program itself. As per the request of the mentors and for ease of finding the correct versions of the program, each version of the avatar has its own build, or program executable, organized into labeled folders. All that needs to be done to play the program is to click on the executable to run it.
