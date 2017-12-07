@@ -1,6 +1,7 @@
 # Singing Avatar
 
 **Video Walkthrough** - https://www.youtube.com/watch?v=aONY4vpco0I
+
 **Video Demo (Short)** - https://www.youtube.com/watch?v=-0_D-4fFDaA
 
 ## User Overview:
