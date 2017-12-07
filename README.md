@@ -16,9 +16,7 @@
 
 **Development Environment** - The development environments used are Unity and Blender. Blender was used to create the singing avatar asset. No imported models were used to create the avatar. Unity was used to animate the avatar and add sound and a background.
 
-**Hardware/Software Specifications** -  Unity version/Oculus, talk about controllers, graphics card
-
-**Warnings** - 
+**Hardware/Software Specifications** -  Hardware/Software Specifications -  You will need a computer running Oculus software as well as an Oculus Rift headset. Touch controllers are not required. The current builds are for a Windows system. The Unity project was developed in Unity 2017.1.
 
 ## Future Developer:
 
